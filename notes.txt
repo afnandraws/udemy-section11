@@ -1,0 +1,8 @@
+
+App
+Meals => mealslist
+UI => Button, Modal
+Layout => Header
+Cart => Overlay
+
+Meal-Context
